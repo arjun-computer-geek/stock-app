@@ -49,3 +49,16 @@ label span{
 #output{
     font-size: 24px;
 }
+
+/* mobiel media query */
+@media only screen and (max-width: 600px){
+    .container{
+        min-height: 90vh;
+        width: 80%;
+        margin-top: 30px;
+        padding: 20px;
+    }
+    input{
+        width: 90%;
+    }
+}
