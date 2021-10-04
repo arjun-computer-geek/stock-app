@@ -11,4 +11,4 @@ Profit and loss calculator
 #Result:
 Here's i have made it by VanilaJS.
 
-# Go To [App](https://distracted-noether-a6fab6.netlify.app/ "title" target="_blank")
+# Go To [App](https://distracted-noether-a6fab6.netlify.app/)
